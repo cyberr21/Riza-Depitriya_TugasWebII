@@ -1,5 +1,5 @@
 <h1>PERPUSTAKAAN</h1>
-<h3>WEBSITE Perpustakaan dengan Framework CI</h3>
+<h3>Website Perpustakaan dengan Framework CI</h3>
 
 <p>WEB PROGRAMMING II</p>
 <p>NIM 		: 17200271</p>
