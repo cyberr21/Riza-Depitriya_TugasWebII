@@ -1,8 +1,10 @@
 <h1>PERPUSTAKAAN</h1>
-<h3>Aplikasi Web dengan Framework Codeigniter</h3>
+<h3>WEB dengan Framework CI</h3>
 
-
-<p>Ini Adalah tugas dari mata kuliah web programming II .</p>
+<p>WEB PROGRAMMING II</p>
+<p>NIM 		: 17200271</p>
+<p>Nama 	: Riza Depitriya</p>
+<p>Kelas 	: 17.6A.11</p>
 
 <br>
 <br>
